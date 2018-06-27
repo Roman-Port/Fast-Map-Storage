@@ -1,0 +1,6 @@
+c:\users\roman\source\repos\FastMapStore\FastMapStore\bin\Debug\FastMapStore.dll
+c:\users\roman\source\repos\FastMapStore\FastMapStore\bin\Debug\FastMapStore.pdb
+c:\users\roman\source\repos\FastMapStore\FastMapStore\obj\Debug\FastMapStore.csprojAssemblyReference.cache
+c:\users\roman\source\repos\FastMapStore\FastMapStore\obj\Debug\FastMapStore.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\FastMapStore\FastMapStore\obj\Debug\FastMapStore.dll
+c:\users\roman\source\repos\FastMapStore\FastMapStore\obj\Debug\FastMapStore.pdb

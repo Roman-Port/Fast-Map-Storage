@@ -1,0 +1,10 @@
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\bin\Debug\FastMapStore_Tests.exe.config
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\bin\Debug\FastMapStore_Tests.exe
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\bin\Debug\FastMapStore_Tests.pdb
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\bin\Debug\FastMapStore.dll
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\bin\Debug\FastMapStore.pdb
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\obj\Debug\FastMapStore_Tests.csprojAssemblyReference.cache
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\obj\Debug\FastMapStore_Tests.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\obj\Debug\FastMapStore_Tests.csproj.CopyComplete
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\obj\Debug\FastMapStore_Tests.exe
+c:\users\roman\source\repos\FastMapStore\FastMapStore_Tests\obj\Debug\FastMapStore_Tests.pdb
