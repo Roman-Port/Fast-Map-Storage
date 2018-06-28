@@ -249,7 +249,7 @@ namespace FastMapStore
     {
         public UInt16 id;
         ///<doc>
-        ///Provides 7 flags that you can set.
+        ///Provides 15 flags that you can set.
         public bool[] flags = new bool[] { false, false, false, false, false, false, false, false, false, false, false, false, false, false,false };
         ///<doc>
         ///Not required. Keep this null to save space.
@@ -261,6 +261,18 @@ namespace FastMapStore
         }
         public FastMapBlock(UInt16 _id)
         {
+            id = _id;
+        }
+
+        public FastMapBlock(UInt16 _id, byte[] _data)
+        {
+            id = _id;
+            data = _data;
+        }
+
+        public FastMapBlock(UInt16 _id, string _msg)
+        {
+            data = Encoding.UTF8.GetBytes(_msg);
             id = _id;
         }
     }

@@ -13,6 +13,7 @@ namespace FastMapStore_Tests
         {
             DateTime time = DateTime.UtcNow;
             FastMap map = new FastMap(16, 256, 16);
+            map.tiles[0, 0, 0] = new FastMapBlock(1);
             Console.WriteLine("Finished creating map. Took " + (DateTime.UtcNow - time).TotalMilliseconds.ToString() + " ms.");
             time = DateTime.UtcNow;
             byte[] buf = map.SaveMap();
